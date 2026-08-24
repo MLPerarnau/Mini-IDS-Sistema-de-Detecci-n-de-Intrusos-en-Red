@@ -90,7 +90,7 @@ El motor de detección, implementado en analizar_paquete(), sigue este flujo ló
 
 - [ ] Soporte nativo de IPS para iptables / ufw en sistemas Linux.
 
-- [ ] Envío de notificaciones de alerta en tiempo real vía bot de Telegram o webhook de Slack.
+- [x] Envío de notificaciones de alerta en tiempo real vía bot de Discord
 
 ## 📄 Licencia
 Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](https://github.com/MLPerarnau/Mini-IDS-Sistema-de-Detecci-n-de-Intrusos-en-Red/edit/main/LICENSE) para más detalles.
